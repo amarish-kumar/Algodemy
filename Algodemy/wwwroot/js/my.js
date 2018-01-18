@@ -1,1 +1,1 @@
-    alert('Hello from my js!!')
+    alert('Hello from my jss!!')
