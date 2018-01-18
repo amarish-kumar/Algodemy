@@ -1,0 +1,10 @@
+/home/elvis/Documents/Personal/Algodemy/Algodemy/bin/Debug/netcoreapp2.0/Algodemy.deps.json
+/home/elvis/Documents/Personal/Algodemy/Algodemy/bin/Debug/netcoreapp2.0/Algodemy.runtimeconfig.json
+/home/elvis/Documents/Personal/Algodemy/Algodemy/bin/Debug/netcoreapp2.0/Algodemy.runtimeconfig.dev.json
+/home/elvis/Documents/Personal/Algodemy/Algodemy/bin/Debug/netcoreapp2.0/Algodemy.dll
+/home/elvis/Documents/Personal/Algodemy/Algodemy/bin/Debug/netcoreapp2.0/Algodemy.pdb
+/home/elvis/Documents/Personal/Algodemy/Algodemy/obj/Debug/netcoreapp2.0/Algodemy.csproj.CoreCompileInputs.cache
+/home/elvis/Documents/Personal/Algodemy/Algodemy/obj/Debug/netcoreapp2.0/Algodemy.AssemblyInfoInputs.cache
+/home/elvis/Documents/Personal/Algodemy/Algodemy/obj/Debug/netcoreapp2.0/Algodemy.AssemblyInfo.cs
+/home/elvis/Documents/Personal/Algodemy/Algodemy/obj/Debug/netcoreapp2.0/Algodemy.dll
+/home/elvis/Documents/Personal/Algodemy/Algodemy/obj/Debug/netcoreapp2.0/Algodemy.pdb
